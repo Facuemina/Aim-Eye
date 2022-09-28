@@ -1,2 +1,2 @@
 # Aim Eye
- Neuroal decoding
+ Neuronal decoding
